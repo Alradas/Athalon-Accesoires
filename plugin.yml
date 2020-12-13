@@ -1,0 +1,8 @@
+name: ACCESSOIRES
+main: com.github.alradas.ACCESSOIRES
+version: 1.0
+api-version: 1.13
+commands:
+   accessoire:
+      description: Accessoires
+      usage: /accessoires [input]
