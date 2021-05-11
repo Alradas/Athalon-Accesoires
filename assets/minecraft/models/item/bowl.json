@@ -1,0 +1,16 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/bowl"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1}, "model": "item/bowl/1" },
+		{ "predicate": { "custom_model_data": 10000}, "model": "item/bowl/10000" },
+		{ "predicate": { "custom_model_data": 10001}, "model": "item/bowl/10001" },
+		{ "predicate": { "custom_model_data": 10002}, "model": "item/bowl/10002" },
+		{ "predicate": { "custom_model_data": 10003}, "model": "item/bowl/10003" },
+		{ "predicate": { "custom_model_data": 10004}, "model": "item/bowl/10004" },
+		{ "predicate": { "custom_model_data": 10005}, "model": "item/bowl/10005" },
+		{ "predicate": { "custom_model_data": 10006}, "model": "item/bowl/10006" }
+	]
+}

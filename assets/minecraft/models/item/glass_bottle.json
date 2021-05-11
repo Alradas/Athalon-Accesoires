@@ -1,0 +1,21 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/glass_bottle"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1}, "model": "item/glass_bottle/1" },
+		{ "predicate": { "custom_model_data": 10000}, "model": "item/glass_bottle/10000" },
+		{ "predicate": { "custom_model_data": 10001}, "model": "item/glass_bottle/10001" },
+		{ "predicate": { "custom_model_data": 10002}, "model": "item/glass_bottle/10002" },
+		{ "predicate": { "custom_model_data": 10003}, "model": "item/glass_bottle/10003" },
+		{ "predicate": { "custom_model_data": 10004}, "model": "item/glass_bottle/10004" },
+		{ "predicate": { "custom_model_data": 10005}, "model": "item/glass_bottle/10005" },
+		{ "predicate": { "custom_model_data": 10006}, "model": "item/glass_bottle/10006" },
+		{ "predicate": { "custom_model_data": 20000}, "model": "item/glass_bottle/20000" },
+		{ "predicate": { "custom_model_data": 30000}, "model": "item/glass_bottle/30000" },
+		{ "predicate": { "custom_model_data": 30001}, "model": "item/glass_bottle/30001" },
+		{ "predicate": { "custom_model_data": 30002}, "model": "item/glass_bottle/30002" },
+		{ "predicate": { "custom_model_data": 30003}, "model": "item/glass_bottle/30003" }
+	]
+}
